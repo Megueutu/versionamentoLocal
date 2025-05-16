@@ -1,0 +1,2 @@
+Sempre que inicializar um repositório, alterar o nome da Branch para "main"
+git branch -M "main"
